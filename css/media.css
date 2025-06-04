@@ -8,6 +8,10 @@
     .title {
         font-size: 20px;
     }
+
+    .header-link {
+        width: 49px;
+    }
     
     .descr {
         font-size: 16px;
@@ -25,11 +29,15 @@
 @media (max-width: 1440px) {
     .header__logo {
         height: 250px;
-        padding: 0 10%;
     }
 
     .title {
         font-size: 17px;
+    }
+
+    .header-link {
+        width: 40px;
+        height: 27px;
     }
 
     .descr {
@@ -52,6 +60,10 @@
         font-size: 25px;
     }
 
+    .header-link {
+        width: 33px;
+    }
+
     .descr {
         font-size: 20px;
     }
@@ -71,6 +83,11 @@
         font-size: 20px;
     }
 
+    .header-link {
+        width: 25px;
+        height: 20px;
+    }
+
     .descr,
     .shop__link {
         font-size: 16px;
@@ -86,6 +103,11 @@
     .title {
         margin-bottom: 7px;
         font-size: 15px;
+    }
+
+    .header-link {
+        width: 20px;
+        height: 20px;
     }
 
     .descr,
@@ -106,6 +128,11 @@
 
     .div {
         width: auto;
+    }
+
+    .header-link {
+        width: 12px;
+        height: 10px;
     }
 
     .title {
